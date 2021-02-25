@@ -1,5 +1,5 @@
 # ESX_casco
-automatic police uniform, helpful for freeroam server
+automatic script to put on and take off a helmet even when you don't have it.
 
 # Dependencies
 
